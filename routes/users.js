@@ -9,6 +9,7 @@ router.get("/register", (req, res)=>{
     res.render("Register")
 })
 
+
 //Register handle
 router.post("/register", (req, res)=>{
 })
